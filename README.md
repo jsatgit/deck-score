@@ -34,6 +34,26 @@ The pure ratings found on the site mentioned above only covers ratings on a mont
     npm start
 ```
 
+Results
+
+```json
+[
+  { score: 26, deck: 'shiranui' },
+  { score: 25, deck: 'darkmagician' },
+  { score: 23, deck: 'blackwings' },
+  { score: 19, deck: 'elementsabers' },
+  { score: 10, deck: 'crystrons' },
+  { score: 6, deck: 'cyberdragon' },
+  { score: 6, deck: 'darklords' },
+  { score: 5, deck: 'witchcrafter' },
+  { score: 5, deck: 'blueeyes' },
+  { score: 5, deck: 'thunderdragons' },
+  { score: 2, deck: 'lunalight' },
+  { score: 2, deck: 'fortunelady' },
+  { score: 1, deck: 'lightsworn' }
+]
+```
+
 ## Limitations
 
 Data does not get pulled automatically from the website. It has to be incorporated into the script manually for now.
