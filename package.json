@@ -1,0 +1,19 @@
+{
+  "name": "deck-score",
+  "version": "1.0.0",
+  "description": "Calculates the rating of Yugioh decks",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "keywords": [
+    "Yugioh"
+  ],
+  "author": "James Shi",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14.0.23",
+    "typescript": "^3.9.7"
+  }
+}
