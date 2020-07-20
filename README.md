@@ -36,7 +36,7 @@ The pure ratings found on the site mentioned above only covers ratings on a mont
 
 Results
 
-```json
+```js
 [
   { score: 26, deck: 'shiranui' },
   { score: 25, deck: 'darkmagician' },
